@@ -9,12 +9,7 @@ function App() {
   return (
     <>
       <h1>Github test project</h1>
-      <p>THe first changes I made</p>
-      <p>Now i am making changes in the Reviewits branch</p>
-      <h2>another change in reviewits</h2>
-    <p>final changes</p>
-    <h3>changes in research page</h3>
-    <p>changes pertain to reviewits </p>
+     <p>THE MAIN PROJECT</p>
     </>
   )
 }
