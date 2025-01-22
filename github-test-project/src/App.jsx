@@ -14,6 +14,7 @@ function App() {
       <h2>another change in reviewits</h2>
     <p>final changes</p>
     <h3>changes in research page</h3>
+    <p>changes pertain to reviewits page</p>
     </>
   )
 }
