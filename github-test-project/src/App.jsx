@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Github test project</h1>
-      <p>THe first changes I made</p>
+      <p>The first changes I made</p>
     </>
   )
 }
