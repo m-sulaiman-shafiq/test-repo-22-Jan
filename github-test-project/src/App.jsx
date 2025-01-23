@@ -10,7 +10,7 @@ function App() {
     <>
       <h1>Github test project</h1>
       <div className='research'>
-        <p>++++++Research page content here++++</p>
+          <p>Research page content here</p>
       </div>
     </>
   )
