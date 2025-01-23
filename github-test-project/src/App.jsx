@@ -9,7 +9,6 @@ function App() {
   return (
     <>
       <h1>Github test project</h1>
-         <p>this is Main</p>
 
          <div className='reviewits'>
               <p>RW-The "ReviewItsPage" is a dedicated section designed to streamline the 
