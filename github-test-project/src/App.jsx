@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Github test project</h1>
+
      <p>THE MAIN PROJECT</p>
          <p>this is Main</p>
          <div className='reviewits'>
@@ -19,6 +20,9 @@ function App() {
                  This page enhances transparency, builds trust, and fosters better engagement between businesses
                   and their audience.</p>
          </div>
+      <div className='research'>
+        <p>++++++Research page content here++++</p>
+      </div>
     </>
   )
 }
